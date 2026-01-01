@@ -20,8 +20,6 @@ The project explores both classical machine learning and modern transformer-base
 2.  **Deep Learning**:
     *   **Model**: **mBERT** (Multilingual BERT), fine-tuned for sequence classification.
 
-## Results
-The comparison of the four models reveals a highly competitive performance landscape, with Random Forest and mBERT tying for the highest accuracy at 82.73%, slightly outperforming both SVM (81.62%) and Logistic Regression (81.34%). While mBERT demonstrated the best predictive precision (83.21%), suggesting it is the most reliable at minimizing false positives, Logistic Regression surprisingly achieved the highest F1-Score (81.92%), indicating a superior balance between precision and recall for this specific dataset. Ultimately, while all models operated within a narrow performance band, mBERT stands out as the strongest candidate for deployment given its top-tier accuracy and precision, though the simpler Logistic Regression remains a remarkably robust baseline.
 
 ### Performance Metrics Table
 
