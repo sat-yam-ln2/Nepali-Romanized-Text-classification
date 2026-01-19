@@ -30,23 +30,6 @@ The project explores both classical machine learning and modern transformer-base
 | **Random Forest** | **0.827298** | 0.819059 | **0.827298** | 0.808402 |
 | **mBERT** | **0.827298** | **0.832099** | **0.827298** | 0.813046 |
 
-## Visualizations
-
-### 1. Class Distribution
-An overview of the dataset balance.
-![Class Distribution](outputs/figures/class_distribution_pie.png)
-
-### 2. Model Performance Comparison
-A side-by-side comparison of accuracy, precision, recall, and F1-score.
-![Performance Metrics](outputs/figures/performance_comparision_metrices.png)
-
-### 3. Confusion Matrices
-Detailed breakdown of true positives vs. misclassifications for each model.
-![Confusion Matrices](outputs/figures/confusion_matrices_comparision.png)
-
-### 4. ROC Curves
-Micro-average ROC curves demonstrating the trade-off between sensitivity and specificity.
-![ROC Curves](outputs/figures/roc_curve_comparision.png)
 
 ## Usage
 To replicate the results:
